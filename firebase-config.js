@@ -1,4 +1,3 @@
-// firebase-config.js
 export default {
   apiKey: "YOUR_API_KEY",
   authDomain: "arogyantra-XXXX.firebaseapp.com",
