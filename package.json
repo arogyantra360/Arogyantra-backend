@@ -1,0 +1,12 @@
+{
+  "name": "arogyaantra-backend",
+  "version": "1.0.0",
+  "description": "Arogyantra Backend API",
+  "main": "api/hello.js",
+  "scripts": {
+    "start": "node api/hello.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.10.1"
+  }
+}
