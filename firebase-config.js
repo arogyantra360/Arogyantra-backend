@@ -1,9 +1,9 @@
 export default {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "arogyantra-XXXX.firebaseapp.com",
-  databaseURL: "https://arogyantra-XXXX-default-rtdb.firebaseio.com",
-  projectId: "arogyantra-XXXX",
-  storageBucket: "arogyantra-XXXX.appspot.com",
-  messagingSenderId: "XXXXXXX",
-  appId: "1:XXXXXXX:web:XXXXXXX"
+  apiKey: "AIzaSyXXXX",
+  authDomain: "arogyantra-5a1e2.firebaseapp.com",
+  databaseURL: "https://arogyantra-5a1e2-default-rtdb.firebaseio.com",
+  projectId: "arogyantra-5a1e2",
+  storageBucket: "arogyantra-5a1e2.appspot.com",
+  messagingSenderId: "XXXXXX",
+  appId: "1:XXXXXX:web:XXXXXX"
 };
